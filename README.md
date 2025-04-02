@@ -1,11 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
-# SOCS0100: Assignment 1
-
 ## Report on COVID-19 trends in 5 countries: Portugal, Greece, Czechia, Sweden and Jordan. 
 
 **Link to data set used**: [*COVID-19 data set on
