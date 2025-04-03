@@ -4,11 +4,15 @@
 GitHub*](https://github.com/owid/covid-19-data/blob/master/public/data/cases_deaths/full_data.csv)
 
 This report looks at the monthly cases and deaths as well as the total
-cases and deaths. You can you this data set to explore trends by data
-visualisation with ggplot2 or using base r functions to get the summary
+cases and deaths. You can use this data set to explore trends by data
+visualisation with ggplot2 or using R base functions to get the summary
 of each country. It will also help to investigate any trends between
 COVID-19 cases over the span of 4 years, for example whether there are
 seasonal trends in spikes of cases and deaths.
+
+### script.R
+
+This contains all the code used to create this report
 
 Below is a table of the variables that were included in my final data
 frame, which I used to explore the trends.
