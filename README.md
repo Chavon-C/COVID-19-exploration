@@ -10,23 +10,10 @@ of each country. It will also help to investigate any trends between
 COVID-19 cases over the span of 4 years, for example whether there are
 seasonal trends in spikes of cases and deaths.
 
-### script.R
+### Files
 
-This contains all the code used to create this report
+| Name | Description |
+|----|----|
+| full_data.csv | Dataset of confirmed COVID-19 cases and deaths. Used for analysis and serves as the primary data source for the report. |
+| script.R | Contains all R code used for data cleaning, analysis and visualisation. Serves as the main workflow for the project. |
 
-Below is a table of the variables that were included in my final data
-frame, which I used to explore the trends.
-
-| Variable     | Description                                        |
-|--------------|----------------------------------------------------|
-| country      | Shows which country the observations were recorded |
-| month        | Shows which month the observations were recorded   |
-| new cases    | Number of new cases were recorded                  |
-| new deaths   | Number of new deaths were recorded                 |
-| total cases  | Cumulative number of new cases                     |
-| total deaths | Cumulative number of new deaths                    |
-
-Hopefully this data set will allow you to engage in meaningful
-discussion about the comparison of the 5 countries: why there is such a
-difference in the trends of observations and inspire you to conduct your
-own further research to explore the causes of this.
